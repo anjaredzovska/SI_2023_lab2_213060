@@ -13,7 +13,8 @@ pateka 1.new User=(null, anja, anjared.gmail.com) 2.new User=(Anja, anja3456, an
 Потребни ми беа 5 test cases. Првиот за RuntimeException, вториот за да нема @ во email, третиот за во password да има специјални знаци, и четвртиот да има празно место во password, ако user e null кодот не продолжува.
 pateka	new User=(null, anja, anjared.gmail.com)	new User=(Anja, anja3456, anjared.gmail.com) 	new User=(Anja, anja*+34, anjared@gmail.com	new User=(Anja, a nja *+34, anjaredz@gmail.com)	user null
 			
-![image](https://github.com/anjaredzovska/SI_2023_lab2_213060/blob/main/assets/108877884/46fd1e73-0eb4-43a8-b67e-2632b0b9d2a5/SILab2.drawio.png)
+![Alt Text](SILab2.drawio.png)
+
 
 
 Тест случаи според критериумот Multiple Condition
